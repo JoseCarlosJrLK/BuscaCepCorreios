@@ -15,9 +15,7 @@ basta executar o comando em seu terminal, dentro da pasta do projeto.
 
 pip3 install -r requieriments.txt
 
-e se estiver fazendo a instalação no linux
-
-pacote python3-tk
+e se estiver fazendo a instalação no linux, faça tambem o download do pacote python3-tk
 
 comando no debian:
 
